@@ -33,3 +33,7 @@
 * KNeighborsClassifier   正確率為　0.8193
 
 ### vgg16_mongo.ipynb : 使用vgg16做芒果品值分類，分為３類，最好，次好，最差
+
+### worldcloud.ipynb : 做文字雲
+
+### 爬蟲_于洲.ipynb : 爬蟲
