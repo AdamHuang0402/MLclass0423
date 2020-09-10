@@ -14,6 +14,9 @@
 ### classification.ipynb : 在load_iris 使用 DecisionTreeClassifier 訓練分類模型，正確率為 1.0
 * max_depth=2  在這個資料集，使用前剪枝方式，設定長到第2層，防止Overfitting情況
 
+### dog_cat.ipynb : 在貓狗資料集使用vgg16訓練分類模型，正確率為 0.924
+* 使用Transfer learning 來使用模型訓練好的參數
+
 ### mongoDB.ipynb : 使用python2讀取mongoDB雲端資料庫內資料  
 
 ### news_classification.ipynb : 使用單純貝氏(MultinomialNB)做新聞分類，正確率約 1.0
