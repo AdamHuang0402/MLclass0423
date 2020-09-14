@@ -4,6 +4,9 @@
 * 使用jieba 做分詞
 * 使用sklearn的MultinomialNB訓練情緒模型
 
+### Dog_cat_convnets_aug.ipynb : 使用convnets＋資料擴增對貓狗資料集分類，正確率約 0.85
+* 只有convnets的話，正確率為 0.79
+
 ### House_price_regression.ipynb : 在kaggle 房價資料集，使用隨機樹結合線性回歸(RandomForestRegressor)，預測房價，分數為 0.15186
 * 使用pandas處理資料
 * 使用sklearn的RandomForestRegressor訓練模型
